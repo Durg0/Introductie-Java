@@ -1,0 +1,17 @@
+size(700, 700);
+background(255, 255, 255);
+stroke(255, 251, 0);
+strokeWeight(5);
+ellipse(200, 350, 100, 100);
+stroke(0, 46, 255);
+strokeWeight(5);
+ellipse(140, 300, 100, 100);
+stroke(0, 0, 0);
+strokeWeight(5);
+ellipse(260, 300, 100, 100);
+stroke(4, 161, 0);
+strokeWeight(5);
+ellipse(310, 350, 100, 100);
+stroke(255, 0, 0);
+strokeWeight(5);
+ellipse(380, 300, 100, 100);
